@@ -13,6 +13,11 @@ This is the RAG pipeline that enable to ask any question around langchain docume
 
 <img width="718" alt="image" src="https://github.com/user-attachments/assets/f732a3c3-6681-4f8e-b8a2-99bda5a90757" />
 
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/36e3d42a-c997-45db-a7b2-11e00218b0b4" />
+<img width="705" alt="image" src="https://github.com/user-attachments/assets/93905670-5b9f-4ec8-8f53-3d553a318a58" />
+
+
+
 
 
 
