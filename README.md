@@ -2,7 +2,7 @@
 A demo project to demonstrate the RAG using Langchain. The application enable the user to ingest any ReadTheDoc documentation (zip) to vector store, and once ingestion is completed, user can ask any question related to documentaiton using AI.
 There is a langchain documentaion zip file commited to root folder that user can use.
 
-#Environment Variables Required
+# Environment Variables Required
 - OPENAI_API_KEY - The OpenAI API Key
 - PINECONE_API_KEY - PineCone API Key
 - INDEX_NAME - PineCone Index Name
